@@ -25,7 +25,7 @@
 
 
 #### Cursos Complementares: 
-[![ico_certificado](https://user-images.githubusercontent.com/75143646/125164754-2e082200-e16a-11eb-99b2-43a13153c2cd.jpg)](/https://drive.google.com/drive/u/0/folders/1OvU4b2aj0R3Cpfsl5gpv6NOcMLp2R8Le)
+[![ico_certificado](https://user-images.githubusercontent.com/75143646/125164754-2e082200-e16a-11eb-99b2-43a13153c2cd.jpg)](https://drive.google.com/drive/folders/1OvU4b2aj0R3Cpfsl5gpv6NOcMLp2R8Le?usp=sharing)
 
 
 
