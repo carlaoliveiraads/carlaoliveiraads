@@ -24,10 +24,19 @@
 * Springboot;
 
 
-#### Cursos Complementares: 
-[![ico_certificado](https://user-images.githubusercontent.com/75143646/125164754-2e082200-e16a-11eb-99b2-43a13153c2cd.jpg)](https://drive.google.com/drive/folders/1OvU4b2aj0R3Cpfsl5gpv6NOcMLp2R8Le?usp=sharing)
+##### Cursos Complementares: 
+[![ico_certificado](https://user-images.githubusercontent.com/75143646/125165147-16319d80-e16c-11eb-86f3-354d4cfa6255.jpg)
+](https://drive.google.com/drive/folders/1OvU4b2aj0R3Cpfsl5gpv6NOcMLp2R8Le?usp=sharing)
 
 
+
+
+
+
+##### Redes Sociais: 
+[![linkedin_logo_1](https://user-images.githubusercontent.com/75143646/125165107-e5e9ff00-e16b-11eb-9e2f-e4e11c5c9dc6.jpg)
+](https://www.linkedin.com/in/carla-oliveira-ads/)[![GitHub-logo-2-imagen](https://user-images.githubusercontent.com/75143646/125165494-8f7dc000-e16d-11eb-9b3f-f6063bab330b.jpg)
+](https://github.com/carlaoliveiraads)
 
 
 
