@@ -5,14 +5,16 @@
 ![caricatura](https://user-images.githubusercontent.com/75143646/125164083-cb615700-e166-11eb-9301-38a44560c9a5.jpg)
 
 
+Estou sempre buscando conhecer novas tecnologias e amplicar meus conhecimentos para além da graduação
+
+
+
 ###### Front-end {Reprograma}:
 
 
-* Html5;
-* CSS3;
-* Git e GitHub;
-* Javascript (Ecma 6);
-* React;
+![do-html-css-javascript-ajax-reactjs-psd-html-jquery](https://user-images.githubusercontent.com/75143646/125165785-e59f3300-e16e-11eb-85bf-f1c564850f5c.jpg)
+
+
 
 ###### Estudando Full-Stack [DEVSCHOOL]:
 
@@ -28,9 +30,10 @@
 [![ico_certificado](https://user-images.githubusercontent.com/75143646/125165147-16319d80-e16c-11eb-86f3-354d4cfa6255.jpg)
 ](https://drive.google.com/drive/folders/1OvU4b2aj0R3Cpfsl5gpv6NOcMLp2R8Le?usp=sharing)
 
-
-
-
+##### Cursos Em Andamento: 
+* Angular;
+* Cloud (AWS);
+* Inglês;
 
 
 ##### Redes Sociais: 
