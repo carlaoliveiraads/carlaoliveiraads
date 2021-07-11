@@ -28,8 +28,8 @@ Estou sempre buscando conhecer novas tecnologias e amplicar meus conhecimentos p
 
 ##### Cursos Complementares: 
 [![ico_certificado](https://user-images.githubusercontent.com/75143646/125165147-16319d80-e16c-11eb-86f3-354d4cfa6255.jpg)
-](https://drive.google.com/drive/folders/1OvU4b2aj0R3Cpfsl5gpv6NOcMLp2R8Le?usp=sharing)
-Clique ⬆️
+](https://drive.google.com/drive/folders/1OvU4b2aj0R3Cpfsl5gpv6NOcMLp2R8Le?usp=sharing)Clique ⬆️
+
 
 ##### Cursos Em Andamento: 
 * Angular;
