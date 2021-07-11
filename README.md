@@ -5,10 +5,6 @@
 ![caricatura](https://user-images.githubusercontent.com/75143646/125164083-cb615700-e166-11eb-9301-38a44560c9a5.jpg)
 
 
-Estou sempre buscando conhecer novas tecnologias e amplicar meus conhecimentos para além da graduação
-
-
-
 ###### Front-end {Reprograma}:
 
 
