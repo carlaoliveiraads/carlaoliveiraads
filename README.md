@@ -31,7 +31,7 @@ Estou sempre buscando conhecer novas tecnologias e amplicar meus conhecimentos p
 ](https://drive.google.com/drive/folders/1OvU4b2aj0R3Cpfsl5gpv6NOcMLp2R8Le?usp=sharing)
 
 
-Clique ⬆️
+(Certificados) ⬆️
 
 
 ##### Cursos Em Andamento: 
