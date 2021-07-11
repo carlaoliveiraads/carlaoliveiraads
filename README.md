@@ -7,8 +7,14 @@
 
 ###### Front-end {Reprograma}:
 
+* Html5;
+* CSS3;
+* Javascript;
+* Git e Github;
+* React;
 
-![do-html-css-javascript-ajax-reactjs-psd-html-jquery](https://user-images.githubusercontent.com/75143646/125165785-e59f3300-e16e-11eb-85bf-f1c564850f5c.jpg)
+
+ ![do-html-css-javascript-ajax-reactjs-psd-html-jquery](https://user-images.githubusercontent.com/75143646/125165785-e59f3300-e16e-11eb-85bf-f1c564850f5c.jpg)
 
 
 
